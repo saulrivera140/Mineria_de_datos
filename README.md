@@ -16,6 +16,6 @@
 
 ## Fase 2
 
-[Presentación técnicas de minería de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Presentacion_K-medias_Equipo9.pdf)
+[Presentación técnicas de minería de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Presentacion_K-medias_Equipo9%20(1).pdf)
 
 [Ejemplo K-medias](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
