@@ -20,6 +20,6 @@
 
 [Ejemplo K-medias](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Ejemplo_K-medias_Equipo9.R)
 
-[Práctica 2 - Visualización de datos]
+[Práctica 2 - Visualización de datos](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Visualizacion_Equipo_9.ipynb)
 
 [Segundo avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
