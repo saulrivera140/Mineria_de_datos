@@ -27,3 +27,5 @@
 [Segundo avance PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/AvancePIA_II_001_9.ipynb)
 
 [Segundo avance PIA corregido](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
+
+## Fase 3
