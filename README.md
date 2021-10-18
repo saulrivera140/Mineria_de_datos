@@ -29,3 +29,7 @@
 [Segundo avance PIA corregido](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Avance2_PIA_Equipo_9_Corregido.ipynb)
 
 ## Fase 3
+
+[Notebook Final]
+
+[PIA]
