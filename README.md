@@ -30,6 +30,6 @@
 
 ## Fase 3
 
-[Notebook Final]
+[Notebook Final](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Notebook.ipynb)
 
 [PIA]
