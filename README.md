@@ -32,4 +32,4 @@
 
 [Notebook Final](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Notebook_Final_Equipo_9.ipynb)
 
-[PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.png)
+[PIA](https://github.com/Ale-MR-22/FCFM-MINERIA-DE-DATOS-AMR/blob/main/Poster_Mineria.pdf)
